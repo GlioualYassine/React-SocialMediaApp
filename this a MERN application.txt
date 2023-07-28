@@ -1,0 +1,14 @@
+this a MERN application 
+=>FrontEND
+	React 
+	ReactRouter for navigation
+	Formik + yup for forms and form validations
+	Redux toolkit for state management
+	redux with persistent to store in local storage
+	react drop zone for react image
+=> BackEnd
+	NodeJS
+	ExpressJS as backend framework
+	Mongoose for managing mongo DB
+	JWT for authentication
+	Multer for file uploading
